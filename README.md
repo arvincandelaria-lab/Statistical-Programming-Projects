@@ -17,6 +17,13 @@ This project was developed as part of our undergraduate capstone in Statistics a
 
 <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/CAS-05-301P_AutomationPhytonProgram.pdf">Book Bot: Exploring the Digital Frontier of Library Management through Automated Programs</a>
 
+### PYTHON STATISTICS ACTIVITIES (BAYESIAN)
+<a href="https://github.com/arvincandelaria-lab/2025March9_Candelaria">March 9, 2025</a>
+
+<a href="https://github.com/arvincandelaria-lab/2025MARCH16_Candelaria">March 16, 2025</a>
+
+<a href="https://github.com/arvincandelaria-lab/2025MAY20_CANDELARIA">March 20, 2025</a>
+
 ### R CAPSTONE PROJECT
 Description: 🚚 Trucking Income Analyzer
 
