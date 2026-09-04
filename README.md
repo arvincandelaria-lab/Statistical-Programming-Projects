@@ -69,4 +69,5 @@ This project was developed as a group undergraduate capstone project for the Bac
 The project aimed to support the transition from manual bookkeeping toward a more efficient computerized system for trucking service administration.
 
 <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/GROUP-3-CAS-05-401P%20(1).pdf">ADVANCING TO DIGITALIZATION: A WAGE CALCULATOR, INCOME TRACKER, AND ANALYZER FOR TRUCKING SERVICE BUSINESS</a>
-
+AND
+<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/FINALS-COMPUTER.xlsx">EXCEL DATA FILE</a>
