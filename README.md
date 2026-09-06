@@ -78,3 +78,24 @@ The project aimed to support the transition from manual bookkeeping toward a mor
 <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/GROUP-3-CAS-05-401P%20(1).pdf">ADVANCING TO DIGITALIZATION: A WAGE CALCULATOR, INCOME TRACKER, AND ANALYZER FOR TRUCKING SERVICE BUSINESS</a>
 AND
 <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/FINALS-COMPUTER.xlsx">EXCEL DATA FILE</a>
+
+# R Programming Fundamentals: Numerical and Financial Analysis
+
+## Overview
+
+This project contains a collection of R programming exercises focused on numerical computation, vector operations, and practical financial analysis. The exercises demonstrate the use of R vectors, arithmetic operations, mathematical formulas, matrices, and functions such as **c()**, **cbind()**, **rbind()**, **seq()**, and **paste()**.
+
+The project applies R programming to practical scenarios including profit calculation, daily savings analysis, monthly energy costs, loan payment calculations, temperature conversion, stock price changes, and other numerical problems.
+
+## What the Assignment Covers
+
+>>| # | Project/Exercise | What I Did in R |
+>>|---|---|---|
+>>| 1 | *Profit Calculation* | Calculated selling prices, profit per item, quantity sold, and total daily profit |
+>>| 2 | *Daily Financial Analysis* | Calculated daily savings and savings percentages from income and expenses |
+>>| 3 | *Monthly Energy Cost Calculation* | Calculated monthly electricity costs from energy consumption using a fixed ₱12/kWh rate |
+>>| 4 | *Loan Payment Calculation* | Calculated monthly loan payments for ₱30,000–₱100,000 loans at 4% interest across 1–5 year terms |
+>>| 5 | *Area of a Triangle* | Calculated the area of a triangle using a mathematical formula |
+>>| 6 | *Age in Dog Years* | Converted human ages into dog years using a given formula |
+>>| 7 | *Temperature Conversion* | Converted Celsius temperatures to Fahrenheit |
+>>| 8 | *Stock Price Change* | Calculated daily stock price changes using closing price − opening price |
