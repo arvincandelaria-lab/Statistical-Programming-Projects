@@ -99,3 +99,12 @@ The project applies R programming to practical scenarios including profit calcul
 >>| 6 | *Age in Dog Years* | Converted human ages into dog years using a given formula |
 >>| 7 | *Temperature Conversion* | Converted Celsius temperatures to Fahrenheit |
 >>| 8 | *Stock Price Change* | Calculated daily stock price changes using closing price − opening price |
+
+<details>
+<summary div align="center"><em>Click here to see the files below</em></summary>
+  
+<p align="center"><a href="https://github.com/arvincandelaria-lab/Statistical-Programming-Projects/blob/main/R-ProgrammingAssessment.pdf">R-Programming-Assessment</a> &nbsp; | &nbsp;
+<a href="https://github.com/arvincandelaria-lab/Statistical-Programming-Projects/blob/main/R-ProgrammingAssignment%20(1).pdf">R-Programming-Assignment</a></p>
+
+</div>
+</details>
