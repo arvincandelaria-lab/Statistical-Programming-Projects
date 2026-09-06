@@ -32,3 +32,6 @@ financial_table
 total_savings <- sum(daily_savings)
 
 paste("Total Savings for the week:", total_savings)
+
+
+hhhhh
